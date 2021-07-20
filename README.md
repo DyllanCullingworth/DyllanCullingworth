@@ -5,11 +5,14 @@
 - Programming
 - Meditation
 
+My personal site can be found at: https://www.cullingworth.tech
+
 ## 🌱 I’m currently learning ...
 - Ruby on Rails
 - Ruby
 - Dart
 - Flutter
+- Wordpress
 
 
 <!---
