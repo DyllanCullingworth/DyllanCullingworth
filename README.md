@@ -1,17 +1,5 @@
 ## 👋 Hi, I’m @DyllanCullingworth
 
-- 👀 I’m interested in ...
-- Martial Arts
-- Programming
-- Meditation
-
-My personal site can be found at: https://www.cullingworth.work
-
-## 🌱 I’m currently learning ...
-- Ruby on Rails
-- Ruby
-
-
 <!---
 ## 💞️ I’m looking to collaborate on ...
 ## 📫 How to reach me ...
