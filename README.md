@@ -1,43 +1,45 @@
 ![Hello US Banner](https://github.com/DyllanCullingworth/DyllanCullingworth/assets/72195729/8e810949-400f-43ec-87ee-f8af13eec104)
 
-## I have been programming since 2020 with focus on Ruby on Rails
-  
-Key Strengths:  
-💻 Ruby on Rails Expertise  
-🌍 Diverse Life Experiences  
-🎯 Discipline, Focus & Resilience  
-🤝 Team Collaboration  
-🌱 Continuous Learning & Self-Improvement  
-🚀 Curiosity & Adaptability  
-  
-Hobbies:  
-🧘‍♂️ Yoga  
-🏄‍♂️ Surfing  
-📚 Reading  
-👨‍🌾 Gardening  
-  
-Core Values:  
-💙 Compassion  
-💪 Courage  
-🙏 Gratitude  
-🔎 Honesty  
-🛡️ Integrity  
-🤝 Loyalty  
-⏳ Patience (Indeed, a virtue!)  
+👋 About Me
 
-Role Models:  
-📖 Dr. Jordan Peterson   
-🧠 Dr. Andrew Huberman   
-🌟 Dr. Joe Dispenza  
-  
-Favorite Mantras:  
-🌱 Every day, in every way, I'm getting better and better.  
-🤝 My subconscious mind is my partner in success.  
-❤ No matter what I have done, or have not done, I am worthy of love.  
-🌟 I am worthy of having all of my dreams come true.  
-🎁 Life is a gift. Thank you.  
-  
-Inspirational Quotes:  
-👨‍💻 "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." - John F. Woods  
-👑 "The highest type of ruler is one of whose existence the people are barely aware. When his task is accomplished and things have been completed, all the people will say, we ourselves have achieved it!" - Lao Tzu  
+Ruby on Rails developer with ~5 years of experience building and maintaining production systems.
+I focus on practical, reliable solutions — especially in messy, real-world codebases.
 
+💻 What I Do
+
+Build and maintain Rails applications (legacy + modern)
+Design and integrate payment systems (Stripe, etc.)
+Debug complex production issues
+Improve performance and developer workflows
+Ship features end-to-end with minimal overhead
+
+🧠 How I Work
+
+Keep things simple and maintainable
+Prefer clarity over cleverness
+Optimize for long-term stability
+Avoid unnecessary abstraction
+Solve real problems, not theoretical ones
+Use AI to accelerate development, prototyping, and debugging
+
+🛠 Tech
+
+Ruby / Rails
+PostgreSQL
+Stripe & payment systems
+Docker / Dev containers
+JavaScript (Next.js when needed)
+AI-assisted workflows (LLMs, code generation, tooling)
+
+🚀 Current Focus
+
+Building tools for real communities (attendance, coordination, etc.)
+Leveraging AI to move faster and validate ideas quickly
+Creating products I actually use
+
+🧩 Outside of Code
+
+Brazilian Jiu Jitsu
+Movement / flow / breathwork
+Surfing & outdoors
+Building community experiences
