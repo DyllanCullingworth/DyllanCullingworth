@@ -1,45 +1,61 @@
 ![Hello US Banner](https://github.com/DyllanCullingworth/DyllanCullingworth/assets/72195729/8e810949-400f-43ec-87ee-f8af13eec104)
 
-👋 About Me
+## 👋 About
 
-Ruby on Rails developer with ~5 years of experience building and maintaining production systems.
-I focus on practical, reliable solutions — especially in messy, real-world codebases.
+Ruby on Rails developer (~5 years) focused on building and maintaining production systems.
 
-💻 What I Do
+I work best in real-world environments — legacy codebases, unclear requirements, and systems that need to just *work*.
 
-Build and maintain Rails applications (legacy + modern)
-Design and integrate payment systems (Stripe, etc.)
-Debug complex production issues
-Improve performance and developer workflows
-Ship features end-to-end with minimal overhead
+---
 
-🧠 How I Work
+## 💻 Work
 
-Keep things simple and maintainable
-Prefer clarity over cleverness
-Optimize for long-term stability
-Avoid unnecessary abstraction
-Solve real problems, not theoretical ones
-Use AI to accelerate development, prototyping, and debugging
+- Rails applications (legacy + modern)
+- Stripe / payment integrations (Connect, Payment Intents, webhooks)
+- Production debugging + incident resolution
+- Performance + query optimisation
+- Developer workflow improvements
 
-🛠 Tech
+---
 
-Ruby / Rails
-PostgreSQL
-Stripe & payment systems
-Docker / Dev containers
-JavaScript (Next.js when needed)
-AI-assisted workflows (LLMs, code generation, tooling)
+## 🧠 Approach
 
-🚀 Current Focus
+- Keep it simple
+- Optimise for maintainability
+- Prefer clarity over cleverness
+- Avoid unnecessary abstraction
+- Solve real problems
 
-Building tools for real communities (attendance, coordination, etc.)
-Leveraging AI to move faster and validate ideas quickly
-Creating products I actually use
+---
 
-🧩 Outside of Code
+## ⚙️ Tech
 
-Brazilian Jiu Jitsu
-Movement / flow / breathwork
-Surfing & outdoors
-Building community experiences
+- Ruby / Rails
+- PostgreSQL
+- Stripe
+- Docker
+- JavaScript (Next.js when needed)
+
+---
+
+## 🤖 AI
+
+- AI-assisted development (prototyping, debugging, tooling)
+- Fast iteration and idea validation using LLMs
+
+---
+
+## 🚀 Current
+
+- Building tools for small communities (attendance, coordination)
+- Exploring AI-first workflows for rapid product development
+- Shipping things I actually use
+
+---
+
+## 🧩 Outside
+
+- Brazilian Jiu Jitsu
+- Movement / breathwork
+- Surfing
+- Building community experiences
